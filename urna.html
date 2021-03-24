@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Eleicoes - TRE</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='estiloUrna.css'>    
+    <link rel="short icon" href="brasao.png">
+</head>
+<body>
+    <div class="visor">     
+        <div class="candidato" id="candidatoID">            
+        </div> 
+        <div>
+            <table>
+                <tr>
+                    <td id="numero1">-</td>
+                    <td id="numero2">-</td>
+                </tr>                
+            </table>
+        </div> 
+    </div>
+    <div class="teclado">      
+        <div class="linha">
+            <div class="celula" onclick="numeroClicado(1)">1</div>
+            <div class="celula" onclick="numeroClicado(2)">2</div>
+            <div class="celula" onclick="numeroClicado(3)">3</div>
+        </div>  
+        <div class="linha">
+            <div class="celula" onclick="numeroClicado(4)">4</div>
+            <div class="celula" onclick="numeroClicado(5)">5</div>
+            <div class="celula" onclick="numeroClicado(6)">6</div>
+        </div>  
+        <div class="linha">
+            <div class="celula" onclick="numeroClicado(7)">7</div>
+            <div class="celula" onclick="numeroClicado(8)">8</div>
+            <div class="celula" onclick="numeroClicado(9)">9</div>
+        </div>  
+        <div class="linha">
+            <div class="celula"></div>
+            <div class="celula" onclick="numeroClicado(0)">0</div>
+            <div class="celula"></div>
+        </div>   
+        <div class="linha">
+            <div class="celula estiloFonte estiloBranco" onclick="branco()"><span>BRANCO</span></div>
+            <div class="celula estiloFonte estiloCorrige" onclick="corrige()"><span>CORRIGE</span></div>
+            <div class="celula estiloFonte estiloConfirma" onclick="confirma()">
+                <form method="POST" action="main.php">
+                    <input type="text" style="display: none;" name="numeroCandidato" id="n">
+                    <input type="submit" style="outline: none;border: none;box-sizing: border-box;font-size: 1em;background-color:#9AE6BA;" value="CONFIRMA">
+                </form> 
+            </div>
+        </div>            
+    </div>
+    <script src='main.js'></script>
+</body>
+</html>
