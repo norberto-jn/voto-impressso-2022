@@ -9,11 +9,9 @@ Objetivo: Aumentar a confiabilidade e segurança das informações durante o ple
 -HTML
 -CSS
 
-
+_____
 
 Primeira Tela :
-
-_____
 
 ![Primeira Tela](https://raw.githubusercontent.com/norberto-jn/VotoImpressso2021-Ideia/main/ImagensTela/Tela-1.png)
 
