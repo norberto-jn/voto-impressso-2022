@@ -9,11 +9,11 @@ Objetivo: Aumentar a confiabilidade e segurança das informações durante o ple
 -HTML
 -CSS
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6765701660921614336?compact=1" height="600" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
+Vamos ao vídeo :
+
+[!["Imagem eleiçao"](https://latinmed.com.br/_latinmed.com.br/wp-content/uploads/2019/07/video-marketing-1170x570.jpg)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6765701660921614336?compact=1)
 
 
-
-____
 
 Primeira Tela :
 
