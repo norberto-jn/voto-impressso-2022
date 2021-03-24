@@ -12,3 +12,30 @@ Objetivo: Aumentar a confiabilidade e segurança das informações durante o ple
 
 
 Primeira Tela :
+
+_____
+
+![Primeira Tela](https://raw.githubusercontent.com/norberto-jn/VotoImpressso2021-Ideia/main/ImagensTela/Tela-1.png)
+
+____
+
+Segunda Tela :
+
+![Segunda Tela ](https://raw.githubusercontent.com/norberto-jn/VotoImpressso2021-Ideia/main/ImagensTela/Tela-2.png)
+
+____
+
+Terceira Tela :
+
+![Terceira Tela](https://raw.githubusercontent.com/norberto-jn/VotoImpressso2021-Ideia/main/ImagensTela/Tela-3.png)
+
+____
+
+
+
+
+
+
+
+
+
