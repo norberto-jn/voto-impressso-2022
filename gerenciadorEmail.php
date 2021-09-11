@@ -134,44 +134,4 @@ class GerenciadorEmail {
 
 }
 
-#------------------------------------------------
-
-// $mail = new PHPMailer();
-
-// $mail->isSMTP();
-
-// $mail->Host = 'smtp.gmail.com';
-
-// $mail->SMTPDebug = SMTP::DEBUG_SERVER;
-
-// $mail->Port = 587;
-
-// $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-
-// $mail->SMTPAuth = true;
-
-
-// #---------------------------------------------------
-
-// $mail->Username = 'gerenciadoremail.norberto@gmail.com';
-
-// $mail->Password = '3191351982020N-junio';
-
-// $mail->setFrom('gerenciadoremail.norberto@gmail.com', 'Gerente');
-
-// $mail->addAddress('norbertojunio@gmail.com', 'Empregado');
-
-// $mail->Subject = 'PHPMailer GMail SMTP test';
-
-// $mail->html2text=true;
-
-// $mail->AltBody = 'This is a plain-text message body';
-
-// $mail->Body="<h1>DEUS E FIEL</h1>";
-
-// if (!$mail->send()) {
-//     echo 'Email nao enviado!'.$mail->ErrorInfo;
-// } else {
-//     echo 'Email enviado com sucesso!';
-// }
 
